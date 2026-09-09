@@ -3,7 +3,7 @@ density = input("Enter traffic density (low, medium, high): ")
 emergency = input("Is emergency vehicle present (yes/no): ")
 
 if density != "low" and density != "medium" and density != "high":
-    print("Invalid traffic density! Please enter low, medium, or high.")
+    print("Invalid try other.")
 
 elif emergency == "yes":
     print("Emergency override: route receives immediate green.")
