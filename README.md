@@ -1,34 +1,23 @@
-# Programming for AI — Python Lab Exercises
+# Programming for AI — Python Labs
 
-Python programming practice and academic lab exercises for the **BS Artificial Intelligence** program at **Riphah International University, Islamabad**.
+Python coursework by Shan, BS Artificial Intelligence, Riphah International University.
 
-## Contents
+## Structure
 
-| Folder | Topics |
-|---|---|
-| `week01/` | Input/output, variables, numeric calculations, bill calculation, and introductory Python exercises |
-| `week02/` | Conditions, loops, break/continue, list comprehensions, patterns, marks analysis, and traffic-signal logic |
-| `src/programming_for_ai_2026/` | Python package starter code |
+- `week01/` — Python basics and introductory exercises
+- `week02/` — conditionals, loops and control-flow exercises
+- `src/programming_for_ai_2026/` — starter package skeleton, not the coursework itself
+- `archives/` — original week-one submission archive
 
-The repository also includes a **Week 1 Jupyter notebook**.
-
-## How to run
-
-Use Python 3 from the repository root:
+## Run
 
 ```bash
 python week01/01_hello.py
 python week02/11_traffic_signal.py
 ```
 
-Most exercises are standalone programs; some request user input in the terminal.
+## Notes
 
-## Learning focus
+Unintentional nested Git entries referencing an OOP repository and the repository itself were removed from the working tree. They remain recoverable on `backup/pre-reorganization-2026-11-14`. The original labs remain intact.
 
-Python fundamentals, problem-solving, control flow, basic data analysis logic, and preparation for future AI/ML coursework.
-
-> Academic learning repository — exercises and code are preserved in their original forms.
-
-**Student:** Shan · BS Artificial Intelligence
-
-[LinkedIn](https://www.linkedin.com/in/shan-shahid-ai) · [GitHub Profile](https://github.com/zahidmehar)
+[GitHub profile](https://github.com/ShanShahidAI) · [LinkedIn](https://www.linkedin.com/in/shan-shahid-ai)
