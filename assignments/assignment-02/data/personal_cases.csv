@@ -1,0 +1,6 @@
+patient_id,age,heart_rate,department
+T2001,0,72,Gen Med
+T2002,120,missing,Cardio
+T2003,invalid,65,General Medicine
+T2004,45,250,General-Med
+T2005,30,80,Neurology

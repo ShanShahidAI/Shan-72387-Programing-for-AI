@@ -1,0 +1,3 @@
+student_id,column,original_value,decision,reason
+1004,attendance,110.0,Replaced with NA,Value outside valid range 0-100
+1009,attendance,-5.0,Replaced with NA,Value outside valid range 0-100

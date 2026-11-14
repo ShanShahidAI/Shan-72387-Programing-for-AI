@@ -3,3 +3,4 @@ n=int(input("Enter Integer :"))
 for i in range(1,n+1):
     sum += i
     print ( "sum =" ,sum)
+    #Shan_72387_PFAI_Week02

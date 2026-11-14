@@ -1,15 +1,16 @@
-# Python generated files
+# Python environments and generated artifacts
+.venv/
+venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 .mypy_cache/
+.ipynb_checkpoints/
 .ruff_cache/
-.venv/
-venv/
 .env
 .env.*
 !.env.example
-.ipynb_checkpoints/
-dist/
-build/
-*.egg-info/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

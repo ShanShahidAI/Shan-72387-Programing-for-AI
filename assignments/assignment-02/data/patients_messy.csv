@@ -1,0 +1,101 @@
+patient_id,age,heart_rate,department
+P001,37,81,Cardio
+P002,missing,94,General Medicine
+P003,51,107,Neurology
+P004,58,120,Oncology
+P005,65,missing,Pediatrics
+P006,72,146,Surgery
+P007,missing,79,Dermatology
+P008,86,92,Orthopedics
+P009,93,105,Psychiatry
+P010,30,118,Gen Med
+P011,37,131,Cardio
+P012,44,missing,General Medicine
+P013,51,77,Neurology
+P014,missing,90,Oncology
+P015,65,103,Pediatrics
+P016,72,116,Surgery
+P017,79,129,Dermatology
+P018,86,142,Orthopedics
+P019,93,missing,Psychiatry
+P020,30,88,Gen Med
+P021,37,101,Cardio
+P022,missing,114,General Medicine
+P023,51,127,Neurology
+P024,58,140,Oncology
+P025,65,73,Pediatrics
+P026,72,86,Surgery
+P027,79,99,Dermatology
+P028,86,112,Orthopedics
+P029,93,missing,Psychiatry
+P030,30,138,Gen Med
+P031,missing,71,Cardio
+P032,44,84,General Medicine
+P033,51,97,Neurology
+P034,58,110,Oncology
+P035,65,123,Pediatrics
+P036,72,136,Surgery
+P037,79,missing,Dermatology
+P038,86,82,Orthopedics
+P039,93,95,Psychiatry
+P040,missing,108,Gen Med
+P041,37,121,Cardio
+P042,44,134,General Medicine
+P043,51,147,Neurology
+P044,58,80,Oncology
+P045,65,93,Pediatrics
+P046,72,missing,Surgery
+P047,79,119,Dermatology
+P048,86,132,Orthopedics
+P049,missing,145,Psychiatry
+P050,30,78,Gen Med
+P051,37,91,Cardio
+P052,44,104,General Medicine
+P053,51,117,Neurology
+P054,58,130,Oncology
+P055,missing,143,Pediatrics
+P056,72,76,Surgery
+P057,79,89,Dermatology
+P058,86,missing,Orthopedics
+P059,93,115,Psychiatry
+P060,30,128,Gen Med
+P061,37,141,Cardio
+P062,44,74,General Medicine
+P063,missing,87,Neurology
+P064,58,100,Oncology
+P065,65,113,Pediatrics
+P066,72,126,Surgery
+P067,79,139,Dermatology
+P068,86,72,Orthopedics
+P069,93,85,Psychiatry
+P070,30,98,Gen Med
+P071,missing,111,Cardio
+P072,44,missing,General Medicine
+P073,51,137,Neurology
+P074,58,70,Oncology
+P075,65,83,Pediatrics
+P076,72,96,Surgery
+P077,79,109,Dermatology
+P078,86,122,Orthopedics
+P079,93,135,Psychiatry
+P080,missing,68,Gen Med
+P081,37,81,Cardio
+P082,44,94,General Medicine
+P083,51,107,Neurology
+P084,58,120,Oncology
+P085,65,133,Pediatrics
+P086,72,146,Surgery
+P087,79,79,Dermatology
+P088,86,92,Orthopedics
+P089,93,missing,Psychiatry
+P090,30,118,Gen Med
+P091,37,131,Cardio
+P092,44,144,General Medicine
+P093,51,77,Neurology
+P094,58,90,Oncology
+P095,65,103,Pediatrics
+P096,72,116,Surgery
+P097,79,129,Dermatology
+P098,86,142,Orthopedics
+P099,93,75,Psychiatry
+P001,37,81,Cardio

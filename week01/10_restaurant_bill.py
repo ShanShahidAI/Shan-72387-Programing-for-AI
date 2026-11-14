@@ -1,4 +1,4 @@
-
+#Shan_72387_PFAI_Week01
 food_price = float(input("Enter food price: "))
 tax_percent = float(input("Enter tax percentage: "))
 discount_percent = float(input("Enter discount percentage: "))
@@ -14,3 +14,4 @@ final_bill = amount_after_discount + service_charge
 
 final_bill_rounded = round(final_bill, 2)
 print("Final bill is:", final_bill_rounded)
+#Shan_72387_PFAI_Week01

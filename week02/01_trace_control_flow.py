@@ -1,5 +1,5 @@
 x = 7 
-if x > 5: 
+if x > 5: #Shan_72387_PFAI_Week02
  print("High") 
 elif x > 2: 
  print("Medium") 
